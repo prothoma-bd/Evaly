@@ -18,4 +18,4 @@ Assignment Task
 [Evaly onlined shopping Test case](https://github.com/prothoma-bd/Evaly/blob/main/Evaly.xlsx)
 
 3. Mind Mapping
-[Evaly Mind Map](Mind Map for evaly.png)
+![Mind Map](<Mind Map.png>)
