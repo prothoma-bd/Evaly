@@ -11,7 +11,7 @@ Evaly is an e-commerce platform that provides a seamless shopping experience wit
 - **Secure Shopping Experience:** Prioritizes user security with secure transactions and data privacy.
 - **Efficient Delivery:** Evaly promises reliable delivery services to ensure products reach customers promptly and in good condition.
 
-Assignment Task
+# Assignment Task
 1. Manual Testing
 [Evaly] (https://evaly.com.bd/)
 2. Writing Test Cases
