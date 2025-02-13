@@ -15,7 +15,7 @@ Assignment Task
 1. Manual Testing
 [Evaly] (https://evaly.com.bd/)
 2. Writing Test Cases
-Evaly onlined shopping Test case
+[Evaly onlined shopping Test case](https://github.com/prothoma-bd/Evaly/blob/main/Evaly.xlsx)
 
 3. Mind Mapping
-![Evaly Mind Map](d:\SQA\Evaly project\Evaly\Mind Map for evaly.png)
+![Evaly Mind Map](evaly.png)
