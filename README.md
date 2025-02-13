@@ -1,4 +1,3 @@
-# Evaly Project
 
 # Evaly Project
 
@@ -14,9 +13,9 @@ Evaly is an e-commerce platform that provides a seamless shopping experience wit
 
 Assignment Task
 1. Manual Testing
-Evaly
+[Evaly] (https://evaly.com.bd/)
 2. Writing Test Cases
 Evaly onlined shopping Test case
 
 3. Mind Mapping
-![Evaly Mind Map](<Mind Map for evaly-1.png>)
+![Evaly Mind Map](d:\SQA\Evaly project\Evaly\Mind Map for evaly.png)
